@@ -4,9 +4,7 @@
 
 🚀 Web Developer | 🖥️ React Enthusiast | 🎨 UI/UX Learner
 
----
-<h1 align="center">Hi 👋, I'm Debasmita Biswal</h1>
-<h3 align="center">🚀 Web Developer | 💻 React Enthusiast | 🎨 UI/UX Learner</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smita536&label=Profile%20views&color=0e75b6&style=flat" alt="smita536" />
