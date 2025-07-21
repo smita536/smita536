@@ -1,3 +1,10 @@
+![Banner](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+# Hi 👋, I'm Debasmita Biswal
+
+🚀 Web Developer | 🖥️ React Enthusiast | 🎨 UI/UX Learner
+
+---
 <h1 align="center">Hi 👋, I'm Debasmita Biswal</h1>
 <h3 align="center">🚀 Web Developer | 💻 React Enthusiast | 🎨 UI/UX Learner</h3>
 
