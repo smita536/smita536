@@ -35,22 +35,13 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smita536&show_icons=true&theme=radical" alt="smita536 stats" />
-</p>
-
----
 
 ### 🔗 Connect With Me
 
 <p>
   <a href="https://github.com/smita536" target="_blank"><img src="https://img.shields.io/badge/GitHub-smita536-blue?style=for-the-badge&logo=github" /></a>
 </p>
-## Hi there 👋
 
 <!--
 **smita536/smita536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
